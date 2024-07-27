@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-   I'm an engineering student actively pursuing B Tech in Chemical Engineering
+   ✨ I'm an engineering student actively pursuing B Tech in Chemical Engineering
+
+   
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
